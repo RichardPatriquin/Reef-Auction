@@ -12,12 +12,10 @@ Before our Dapp can run there are a few technical requirement before we start. P
 
 ## Directory Structure
 The directory structure used for this Dapp was created using Truffle Box. Truffle Box contains modules, Solidity contracts & libraries, front-end files. We used the pet-shop suite to build upon.
-> mkdir reef-auction
->
-> cd reef-auction
->
->truffle unbox pet-shop
-
+First create a directory, then inside the directory type:
+```
+$truffle unbox pet-shop
+```
 The important folders in the directory include:
 - `contracts`: Contains the code for the Auction smart contract
 - `migrations`: Contains the JavaScript scripts to deploy and run migrations (adapted from the tutorial)
@@ -26,7 +24,7 @@ The important folders in the directory include:
 
 ## Instructions for Local Deployment
 1. Download the prerequisites to run the application. 
-2. Run Ganache, and connect MetaMask to Ganache. Detailed instructions for this step can be found in Sections 3.1 and 3.2 in `documents/setup_instructions.pdf`
+2. Run Ganache, and connect MetaMask to Ganache.
 3. Clone the repo
 ```
 $ git clone https://github.com/RichardPatriquin/Reef-Auction.git
@@ -57,12 +55,4 @@ $ npm run dev
 -
 
 ## Questions/Contributions/Future Work
-- The app does not have payment processing for bids and doesn't track money. As it stands, it's a CRUD application where the web3 wallet only requests the wallet holder to pay gas fees for computation
-- The app doesn't allow users to create their own auctions
-- There's no start and end time for auctions so bids can be placed indefinitely
-- There's no ability to associate the final item to a wallet. More work needs to be done with tokenizing items and associating wallets to tokens
-- Improvements can be made to the UI. Some examples of improvements include:
-  1. Better front end interactivity for the requirements in the smart contract backend. Currently, the submit button is not active if the requirements of the bid are not met. Someone could easily design JS functionality to improve the UI.
-  2. More attractive HTML/CSS layout
-- Refer to the executive summary located at `documents/executive_summary` for a more detailed description of future projects and work that can be done to improve this app
-- Please reach out to either of us for any other feedback
+- 
