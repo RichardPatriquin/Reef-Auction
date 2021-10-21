@@ -20,8 +20,8 @@ $truffle unbox pet-shop
 ![Directory](https://github.com/RichardPatriquin/Reef-Auction/blob/main/images/directory.png)
 The important folders in the directory include:
 - `contracts`: Contains the code for the Auction smart contract
-- `migrations`: Contains the JavaScript scripts to deploy and run migrations (adapted from the tutorial)
-- `src`: Contains the JavaScript and HTML/CSS for the front end, as well as the code that enables interaction with the smart contract
+- `migrations`: Contains the JavaScript scripts to deploy and run migrations 
+- `src`: Contains the JavaScript and HTML/CSS and images for the front end, as well as the code that enables interaction with the smart contract
 
 
 ## Instructions for Local Deployment
