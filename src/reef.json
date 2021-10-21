@@ -1,0 +1,38 @@
+[
+  {
+      "id": 0,
+      "name": "Heart Shaped Island",
+      "picture": "images/heart_shaped.jpg",
+      "description": "Heart Reef, part of the Great Barrier Reef of the Whitesundays",
+      "minimum_increment": "2",
+      "original_price": "20",
+      "more_info": "https://greatbarrierreef.org/"
+  },
+  {
+      "id": 1,
+      "name": "Agincourt Reef",
+      "picture": "images/agincourt_reef.jpg",
+      "description": "Agincourt reef has long been one of the most popular diving locations in the entire Great Barrier Reef",
+      "minimum_increment": "20",
+      "original_price": "200",
+      "more_info": "https://en.wikipedia.org/wiki/Great_Barrier_Reef"
+  },
+  {
+      "id": 2,
+      "name": "Flynn Reef",
+      "picture": "images/flynn_reef.jpg",
+      "description": "Wonderful example of Outer Reef beauty; diving opportunities for beginner and advanced alike; excellent mix of marine life; high level of visibility",
+      "minimum_increment": "35",
+      "original_price": "150",
+      "more_info": "https://greatbarrierreef.org/"
+  },
+  {
+      "id": 3,
+      "name": "Green Island",
+      "picture": "images/green_island.jpg",
+      "description": "Easily accessibly “taste of the reef”; great mix of facilities and activities; snorkelling just off shore; luxurious accommodation",
+      "minimum_increment": "100",
+      "original_price": "1000",
+      "more_info": "https://www.greenislandresort.com.au/"
+  }
+]
