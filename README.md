@@ -17,6 +17,7 @@ First create a directory, then inside the directory type:
 ```
 $truffle unbox pet-shop
 ```
+![Directory](https://github.com/RichardPatriquin/Reef-Auction/blob/main/images/directory.png)
 The important folders in the directory include:
 - `contracts`: Contains the code for the Auction smart contract
 - `migrations`: Contains the JavaScript scripts to deploy and run migrations (adapted from the tutorial)
