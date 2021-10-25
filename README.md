@@ -12,7 +12,7 @@ Before our Dapp can run there are a few technical requirement before we start. P
 - Truffle
 
 ## Directory Structure
-The directory structure used for this Dapp was created using Truffle Box. Truffle Box contains modules, Solidity contracts & libraries, front-end files. We used the pet-shop suite to build upon.
+The directory structure used for this Dapp was created using Truffle Box. Truffle Box contains modules, Solidity contracts & libraries, front-end files. We used the pet-shop suite https://www.trufflesuite.com/tutorial to build upon.
 First create a directory, then inside the directory type:
 ```
 $truffle unbox pet-shop
@@ -51,7 +51,11 @@ $ npm run dev
 
 ## Team
 - [Richard Patriquin](https://github.com/RichardPatriquin)
--
+- [Yohei Waki](https://github.com/Y-eddiee)
+- [Shahadath Farouk](https://github.com/shahadh999)
+- [Simon Sakkal](https://github.com/simongs10)
+- [Matthew Buchanan](https://github.com)
 
-## Questions/Contributions/Future Work
+## Future Work
+- Function to relist your reef for sale
 - 
